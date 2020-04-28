@@ -855,7 +855,7 @@ textarea.input {
 .btn {
 	display: inline-block;
 	height: 50px;
-	line-height: 50px;
+	line-height: 51px;
 	background-color: #000000;
 	padding: 0 33px;
 	letter-spacing: 2px;
